@@ -1,5 +1,5 @@
 # DeepPermNet: Jigsaw Puzzle Solver
-This repository contains the implementation of a DeepPermNet model for solving jigsaw puzzle problems on the CIFAR-10 dataset, as described in the paper "DeepPermNet: Visual Permutation Learning" by Rodrigo Santa Cruz et al.
+This repository contains the implementation of a DeepPermNet model for solving jigsaw puzzle problems on the CIFAR-10 dataset, as described in the paper "DeepPermNet: Visual Permutation Learning" by Rodrigo Santa Cruz et al. To know more about the project,please check the PDF.
 
 ## Abstract
 We constructed a DeepPermNet to solve jigsaw puzzle problems, achieving a 95.67% accuracy rate on the test set after extensive exploration and optimization.
